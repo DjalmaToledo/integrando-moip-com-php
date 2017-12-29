@@ -1,0 +1,12 @@
+{
+    "name": "erikfig/pagamento-moip",
+    "authors": [
+        {
+            "name": "Erik Figueiredo",
+            "email": "erik.figueiredo@gmail.com"
+        }
+    ],
+    "require": {
+        "moip/moip-sdk-php": "^2.2"
+    }
+}
